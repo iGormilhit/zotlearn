@@ -1,5 +1,4 @@
 # Summary
 
-* [Introduction](introduction.md)
-* [SGR et Zotero](sgr-et-zotero.md)
+* [LGB et Zotero](lgb-et-zotero.md)
 
