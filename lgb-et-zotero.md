@@ -9,6 +9,7 @@ LGB ou *logiciel de gestion bibliographique* est le terme générique désignant
 * générer automatiquement des bibliographies ;
 * aider à l'insertion de citation dans un texte en cours de rédaction.
 
+
 En plus de ces fonctions de bases, un LGB moderne propose le plus souvent :
 
 * d'annoter ses références ;
