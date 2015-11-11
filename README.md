@@ -1,4 +1,4 @@
-# zotlearn
+# ZotLearn
 
 Un support pour apprendre à utiliser [Zotero](https://www.zotero.org)
 
