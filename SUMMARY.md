@@ -1,4 +1,4 @@
 # Summary
 
-* [LGB et Zotero](lgb-et-zotero.md)
+* [LGB et Zotero](lgrb-et-zotero.md)
 
