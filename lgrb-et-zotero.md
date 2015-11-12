@@ -16,4 +16,8 @@ En plus de ces fonctions de bases, un LGRB moderne propose le plus souvent :
 * d'accéder à ses références en ligne, voir de rendre ses collections publiques ;
 * de travailler en collaboration.
 
-Certains de ces logiciels existent depuis le milieu des années 80 ([*Reference Manager*](https://en.wikipedia.org/wiki/Reference_Manager) et [*Endnote*](https://en.wikipedia.org/wiki/EndNote). Le format [*BibTeX*](https://fr.wikipedia.org/wiki/BibTeX), format supporté par la majorité des LGRB, utilisé par le langage de composition de document [*LaTeX*](https://fr.wikipedia.org/wiki/LaTeX) par exemple date de 1985. Le développement de Zotero^[Par le [*Roy Rosenweig Center For history and New Media*](http://chnm.gmu.edu/)] de la *George Mason University*] a débuté en 2005.
+Certains de ces logiciels existent depuis le milieu des années 80 ([*Reference Manager*](https://en.wikipedia.org/wiki/Reference_Manager) et [*Endnote*](https://en.wikipedia.org/wiki/EndNote)). Le format [*BibTeX*](https://fr.wikipedia.org/wiki/BibTeX), format supporté par la majorité des LGRB, utilisé par le langage de composition de document [*LaTeX*](https://fr.wikipedia.org/wiki/LaTeX) date de 1985. Le développement de Zotero[^1] a débuté en 2005.
+
+
+
+[^1]Par le [*Roy Rosenweig Center For history and New Media*](http://chnm.gmu.edu/)] de la *George Mason University*].
