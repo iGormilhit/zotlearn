@@ -11,7 +11,7 @@ Avec un compte Zotero, il est possible de :
 
 Pour la création de son compte, il faut se rendre sur le site [zotero.org](https://www.zotero.org). En haut à droite de la page d'accueil se trouve le lien *Register*.
 
-![S'enregistrer sur Zotero](images/zotero-register.png)
+![S'enregistrer sur Zotero](../images/zotero-register.png)
 
 Il s'agit ensuite de renseigner les informations habituelles :
 
