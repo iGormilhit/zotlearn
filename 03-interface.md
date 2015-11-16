@@ -17,4 +17,6 @@ Celle-ci est elle-même divisée en cinq sections principales :
 
 | Bouton | Fonctionnalité |
 |:------:|:-------------- |
-|
+|[](images/toolbar-collection-add@2x.png)| Permet d'ajouter une nouvelles sous-collection. Un clic droit donne également accès à cette fonction|
+|[](images/group_add.png)| Ajoute un groupe |
+|[](images/cog@2x.png)| Le menu *Actions*. S'y trouve les fonctionnalités d'importation et d'exportation, ainsi que les préférences|
