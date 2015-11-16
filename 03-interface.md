@@ -20,9 +20,9 @@ Ci-dessous, une liste des principales fonctionnalités de Zotero :
 |![](images/group_add.png)| Ajoute un groupe |
 |![](images/cog@2x.png)| Le menu *Actions*. S'y trouve les fonctionnalités d'importation et d'exportation, ainsi que les préférences|
 |![](images/toolbar-item-add@2x.png)| Ajoute une référence vide. Il est possible de sélectionner un type de document dans une liste très complète|
-|![](toolbar-lookup.png)| La &laquo;&nbsp;baguette magique&nbsp;&raquo;. Permet d'ajouter une référence à partir de son ID (ISBN, DOI, PMID)|
-|![](toolbar-note-add@2x.png)| Ajoute une note à une référence. Sur la droite s'ouvre un petit éditeur pour taper du texte|
-|![](attach@2x.png)| Attache une pièce jointe à une référence, typiquement le fichier PDF enregistré sur son ordinateur|
-|![](toolbar-advanced-search@2x)| Ouvre la fenêtre de dialogue de la recherche avancée, notamment pour faire des sous-collections dynamiques|
-|![](toolbar-fullscreen-bottom.png) | Déploie la fenêtre de Zotero dans un onglet entier|
-|![](toolbar-fullscreen-top@2x.png) | Lorsque Zotero a été aggrandi à la taille d'un onglet, replace l'application en bas de la fenêtre|
+|![](images/toolbar-lookup.png)| La &laquo;&nbsp;baguette magique&nbsp;&raquo;. Permet d'ajouter une référence à partir de son ID (ISBN, DOI, PMID)|
+|![](images/toolbar-note-add@2x.png)| Ajoute une note à une référence. Sur la droite s'ouvre un petit éditeur pour taper du texte|
+|![](images/attach@2x.png)| Attache une pièce jointe à une référence, typiquement le fichier PDF enregistré sur son ordinateur|
+|![](images/toolbar-advanced-search@2x)| Ouvre la fenêtre de dialogue de la recherche avancée, notamment pour faire des sous-collections dynamiques|
+|![](images/toolbar-fullscreen-bottom.png) | Déploie la fenêtre de Zotero dans un onglet entier|
+|![](images/toolbar-fullscreen-top@2x.png) | Lorsque Zotero a été aggrandi à la taille d'un onglet, replace l'application en bas de la fenêtre|
