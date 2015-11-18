@@ -2,6 +2,8 @@
 
 ## Types de documents
 
+Zotero est en mesure de traiter un grand nombre de type de documents. Le tableau ci-dessous en présente les principaux.
+
 | Icône | Type de document |
 |:-----:|:-----------------|
 |![](images/treeitem-webpage.png)| Page web |
@@ -65,11 +67,15 @@ Le plus souvent, il est possible d'accéder à une ressource via son navigateur 
 * sur un site de partage de vidéo en ligne ;
 * etc.
 
-Idéalement, le site Web qui propose la ressource qui vous intéresse a enregistré les données bibliographiques de telle manière que Zotero est en mesure de les importer automatiquement. Si c'est le cas, vous le saurez rapidement, parce que la zone des boutons de Zotero, à la droite de votre barre de recherche, affiche l'îcone du document que vous pouvez ajouter.
+Idéalement, le site Web qui propose la ressource qui vous intéresse a enregistré les données bibliographiques de telle manière que Zotero est en mesure de les importer automatiquement. Si c'est le cas, vous le saurez rapidement, parce que la zone des boutons de Zotero, à la droite de votre barre de recherche, affiche l'îcone du document que vous pouvez ajouter. Ci-dessous, les deux figures présentent le cas où Zotero a identifié un livre et celui où il a identifié un ensemble de documents.
 
 ![Zotero a repéré un livre](images/ajout-livre.png)
 ![Zotero a repéré un ensemble de documents](images/ajout-dossier.png)
 
 Pour ajouter une référence repérée par Zotero, il suffit de cliquer sur l'icône qui le signale. Une nouvelle référence est créée, avec les informations détectées automatiquement.
+
+Si la page que vous visitez contient plus d'un document, l'icône du dossier (ci-dessus) apparaît. En cliquant sur cette icône, une fenêtre de dialogue apparaît (ce qui peut prendre un certain temps), dans laquelle vous pouvez sélectionner les références qui vous intéressent.
+
+![Fenêtre de sélection](images/ajout-selection.png)
 
 **Il est essentiel de vérifier la qualité des données importées !** Cette qualité détermine en effet la qualité des citations et des bibliographies généres par Zotero. Il sera bien plus pénible de corriger ces données à la fin de votre travail, alors que vous aurez certainement suffisamment de préoccupation, que de le faire immédiatement.
