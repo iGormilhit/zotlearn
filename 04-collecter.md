@@ -56,6 +56,15 @@ Il est relativement rare de pouvoir remplir tout les champs. Mais il est importa
 
 ### Automatiquement
 
+L'ajout automatique de références dans Zotero peut également se dérouler de deux façons principales :
+
+1. En utilisant le bouton situé à droite de la barre d'adresse ;
+2. Avec la &laquo;&nbsp;baguette magique&raquo;&nbsp; lorsque l'on connaît l'ID du document à ajouter.
+
+**Dans les deux cas, il est essentiel de vérifier la qualité des données importées !** Cette qualité détermine en effet la qualité des citations et des bibliographies généres par Zotero. Il sera bien plus pénible de corriger ces données à la fin de votre travail, alors que vous aurez certainement suffisamment de préoccupation, que de le faire immédiatement.
+
+#### Le bouton d'ajout
+
 Le plus souvent, il est possible d'accéder à une ressource via son navigateur Web, que ce soit :
 
 * dans un catalogue en ligne, ou dans un outil de découverte proposé par une bibliothèque ;
@@ -78,4 +87,12 @@ Si la page que vous visitez contient plus d'un document, l'icône du dossier (ci
 
 ![Fenêtre de sélection](images/ajout-selection.png)
 
-**Il est essentiel de vérifier la qualité des données importées !** Cette qualité détermine en effet la qualité des citations et des bibliographies généres par Zotero. Il sera bien plus pénible de corriger ces données à la fin de votre travail, alors que vous aurez certainement suffisamment de préoccupation, que de le faire immédiatement.
+Dans le cas où la page Web visitée n'offre pas de métadonnées enrichies, Zotero n'est pas en mesure d'identifier la ressouce que vous voudriez peut-être ajouter. Dans ce cas, il est toujours possible de considérer la page Web elle-même comme un document.
+
+![Ajout d'une page Web](images/ajout-page-web.png)
+
+Dans ce cas, il sera nécessaire d'enrichir vous-mêmes les données de la référence, car Zotero utilisera des données sommaires, comprenant notamment l'URL de la page.
+
+Enfin, le bouton d'ajout présente également un menu déroulant sur sa droite (la flèche qui pointe vers le bas). Ce menu offre des choix supplémentaires. Il s'agit par exemple d'ajouter une capture de la page visitée, ou d'utiliser telle ou telle source de métadonnées (embedded, COinS, etc.).
+
+![Menu déroulant du bouton d'ajout](images/ajout-menu-deroulant.png)
