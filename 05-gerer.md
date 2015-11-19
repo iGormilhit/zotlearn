@@ -18,7 +18,7 @@ Les marqueurs peuvent être utilisés pour trier vos références selon des thé
 
 Pour visualiser et ajouter des marqueurs à une référence, il faut d'abord la sélectionner. Dans la colonne de droite s'affiche par défaut les informations de celle-ci. Cette colonne propose plusieurs onglets, dont l'onglet *Marqueurs*. Dans celui-ci se trouvent les marqueurs déjà attribués, si c'est le cas. Un bouton *Ajouter* permet d'ajouter manuellement des marqueurs. Les marqueurs ajoutés manuellement ont une étiquette jaune, alors que les marqueurs ajoutés manuellement ont une étiquette bleue.
 
-![Ajouter des marqueurs](images/ajout-marqueurs.png)
+![Ajouter des marqueurs](images/zotero-ajout-marqueurs.png)
 
 Sur le bas de la colonne de gauche se trouve la zone des marqueurs. Là s'affichent tous les marqueurs de la collection sélectionnée. Un champ de recherche est à disposition pour trouver un marqueur précis dans la liste, qui peut devenir longue à force d'ajout de références. Dans la fenêtre, il est possible de cliquer sur un ou plusieurs marqueurs pour n'afficher que les références correspondantes.
 
