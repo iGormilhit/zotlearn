@@ -11,7 +11,7 @@
 * [Collecter des références](04-collecter.md)
 * [Gérer ses collections](05-gerer/README.md)
    * [Bibliothèques et collections](05-gerer/01-collections.md)
-   * [Marqueurs](05-gerer/02-marqeurs.md)
+   * [Marqueurs](05-gerer/02-marqueurs.md)
    * [Rechercher dans ses références](05-gerer/03-recherche.md)
 * [Citer et générer des bibliographies](06-citer-bibliographier.md)
 * [Travailler en groupe](07-travail-en-groupe.md)
