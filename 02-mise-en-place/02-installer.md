@@ -42,7 +42,7 @@ Zotero peut être intégrer à un traitement de texte, dans le but de faciliter 
 
 Pour installer ces plugins, il est nécessaire de se rendre encore une fois sur le [site de Zotero](https://www.zotero.org), puis sur la page des [*download*](https://www.zotero.org/download). Sous le bouton pour l'installation de l'extension pour Firefox se trouve le lien vers la page des plugins pour les traitements de texte.
 
-![Lien vers les plugins pour traitements de texte](../images/zotero-lien-texte.png)
+![Lien vers les plugins pour traitements de texte](../images/zotero-plugin-texte.png)
 
 La version *Standalone* inclut ces plugins, aussi n'est-il pas nécessaire de les installer si l'on a choisi cette version.
 
