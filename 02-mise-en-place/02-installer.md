@@ -9,6 +9,8 @@ Il s'agit dans les deux cas du même logiciel, avec exactement la même interfac
 
 Si vous ne voulez pas travailler avec Firefox, la version *Standalone* vous permet de chercher des références bibliographiques en ligne avec *Safari* ou *Google Chrome* en installant une extension pour votre navigateur préféré.
 
+Sur leur site [*Mastering Zotero*](http://zotero-manual.github.io/zotero-manual/), Sebastian Karcher et Rintze M. Zelle proposent un tableau synthétisant les différences entre les deux solutions : 
+
 ## L'extension pour Firefox
 
 Rendez-vous sur la page de téléchargement de Zotero, soit en passant par le bouton *Download* de la page d'accueil du site, soit en utilisant directement l'URL suivante : https://www.zotero.org/download
@@ -25,15 +27,7 @@ Le téléchargement s'effectue et un message apparaît vous demandant de lancer 
 
 Zotero est installé.
 
-## *Zotero Standalone*
-
-L'installation de la version *Standalone* n'est pas plus complexe. Il faut commencer par choisir le bouton de droite sur la page de téléchargement. Normalement le site a identifié le système d'exploitation qui vous concerne. Une fois que vous avez cliqué sur ce bouton, la procédure qui suit est celle que vous avez l'habitude pour installer un logiciel sur votre ordinateur.
-
-Ensuite, il faut installer l'extension qui fera le lien entre *Zotero Standalone* et le navigateur Web de votre choix. Cette installation se fait d'une manière similaire à ce qui a été vu ci-dessus.
-
-La suite de ce support se fera en utilisant Zotero en tant qu'extension de Firefox, mais tout ce qui sera montré est parfaitement équivalent avec *Zotero Standalone*.
-
-## Les plugins pour traitements de texte
+### Les plugins pour traitements de texte
 
 Zotero peut être intégrer à un traitement de texte, dans le but de faciliter l'insertion de citation et la génération de la bibliographie à partir de celles-ci. Les logiciels supportés sont :
 
@@ -45,5 +39,15 @@ Pour installer ces plugins, il est nécessaire de se rendre encore une fois sur 
 ![Lien vers les plugins pour traitements de texte](../images/zotero-plugin-texte.png)
 
 La version *Standalone* inclut ces plugins, aussi n'est-il pas nécessaire de les installer si l'on a choisi cette version.
+
+## *Zotero Standalone*
+
+L'installation de la version *Standalone* n'est pas plus complexe. Il faut commencer par choisir le bouton de droite sur la page de téléchargement. Normalement le site a identifié le système d'exploitation qui vous concerne et vous propose la version du logiciel la plus adaptée. Une fois que vous avez cliqué sur ce bouton, la procédure qui suit est celle que vous avez l'habitude pour installer un logiciel sur votre ordinateur.
+
+Pour *Windows* vous téléchargez un fichier ``.exe``, que vous devez ensuite exécuter. Sous *OS X*, il s'agit 
+
+Ensuite, il faut installer l'extension qui fera le lien entre *Zotero Standalone* et le navigateur Web de votre choix. Cette installation se fait d'une manière similaire à ce qui a été vu ci-dessus.
+
+La suite de ce support se fera en utilisant Zotero en tant qu'extension de Firefox, mais tout ce qui sera montré est parfaitement équivalent avec *Zotero Standalone*.
 
 

@@ -1,6 +1,6 @@
 # Un compte Zotero
 
-Il est techniquement possible d'utiliser Zotero sans se créer de compte sur [zotero.org](https://www.zotero.org). Pourtant, disposer d'un compte Zotero rend possibles des fonctionnalités dont il serait très dommage de ne pas profiter. De plus, ce compte est gratuit, sa politique à l'égard des données personnelles est [clairement publiée](https://www.zotero.org/support/terms/privacy), et il est tout à fait possible de supprimer son compte et d'exporter ses données pour les utiliser avec un autre logiciel. La réciproque n'est pas toujours vraie.
+Il est techniquement possible d'utiliser Zotero sans se créer de compte sur [zotero.org](https://www.zotero.org). Pourtant, disposer d'un compte donne accès à des fonctionnalités dont il serait très dommage de ne pas profiter. De plus, ce compte est gratuit, sa politique à l'égard des données personnelles est [clairement publiée](https://www.zotero.org/support/terms/privacy), et il est tout à fait possible de supprimer son compte et d'exporter ses données pour les utiliser avec un autre logiciel. La réciproque n'est pas toujours vraie.
 
 Avec un compte Zotero, il est possible de :
 
@@ -19,4 +19,4 @@ Il s'agit ensuite de renseigner les informations habituelles :
 * un email valide,
 * un mot de passe (si possible pas trop faible).
 
-Il ne reste plus qu'à passer le *captcha* afin de prouver que vous n'êtes pas un robot, et c'est tout.
+Il ne reste plus qu'à passer le *captcha* afin de prouver que vous n'êtes pas un robot, valider son email, ...et c'est tout.
