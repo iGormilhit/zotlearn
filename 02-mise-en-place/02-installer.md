@@ -52,4 +52,4 @@ Ensuite, il faut installer l'extension qui fera le lien entre *Zotero Standalone
 
 Une fois le plugin ajouté à votre navigateur, pour vérifier si l'installation a réussi, démarrez *Zotero Standalone* en le cherchant soit dans le menu *Démarrez*, soit dans le dossier *Applications*. Puis, visitez, toujours avec le navigateur pour lequel vous avez installé le plugin, la page suivante : [http://data.rero.ch/01-R007307661/html](http://data.rero.ch/01-R007307661/html). Tout à droite de la barre d'adresse devrait se trouver une îcone bleue en forme de livre (![Icône de livre](../images/treeitem-book.png)) :
 
-![Vérification de l'installation](../images/zotero-standalone-chrome.png)
+![Vérification de l'installation](../images/zotero-standalone-chrome-icon.png)
