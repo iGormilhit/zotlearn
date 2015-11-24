@@ -44,10 +44,12 @@ La version *Standalone* inclut ces plugins, aussi n'est-il pas nécessaire de le
 
 L'installation de la version *Standalone* n'est pas plus complexe. Il faut commencer par choisir le bouton de droite sur la page de téléchargement. Normalement le site a identifié le système d'exploitation qui vous concerne et vous propose la version du logiciel la plus adaptée. Une fois que vous avez cliqué sur ce bouton, la procédure qui suit est celle que vous avez l'habitude pour installer un logiciel sur votre ordinateur.
 
-Pour *Windows* vous téléchargez un fichier ``.exe``, que vous devez ensuite exécuter. Sous *OS X*, il s'agit 
+Pour *Windows* vous téléchargez un fichier ``.exe``, que vous devez ensuite exécuter. Sous *OS X*, il s'agit d'un ``.dmg`` qu'il faut glisser-déposer dans le dossier *Applications*.
 
-Ensuite, il faut installer l'extension qui fera le lien entre *Zotero Standalone* et le navigateur Web de votre choix. Cette installation se fait d'une manière similaire à ce qui a été vu ci-dessus.
+Ensuite, il faut installer l'extension qui fera le lien entre *Zotero Standalone* et le navigateur Web de votre choix (*Google Chrome*, *Safari* ou *Firefox*). Visitez, avec ce navigateur, la page de [téléchargement](https://www.zotero.org/download) de Zotero, et sur la droite, choisissez le plugin associé au navigateur que vous utilisez. Par exemple, avec *Google Chrome* :
 
-La suite de ce support se fera en utilisant Zotero en tant qu'extension de Firefox, mais tout ce qui sera montré est parfaitement équivalent avec *Zotero Standalone*.
+![Le plugin pour Chrome](../images/zotero-standalone-chrome.png)
 
+Une fois le plugin ajouté à votre navigateur, pour vérifier si l'installation a réussi, démarrez *Zotero Standalone* en le cherchant soit dans le menu *Démarrez*, soit dans le dossier *Applications*. Puis, visitez, toujours avec le navigateur pour lequel vous avez installé le plugin, la page suivante : [http://data.rero.ch/01-R007307661/html](http://data.rero.ch/01-R007307661/html). Tout à droite de la barre d'adresse devrait se trouver une îcone bleue en forme de livre (![Icône de livre](../images/treeitem-book.png)) :
 
+![Vérification de l'installation](../images/zotero-standalone-chrome.png)
